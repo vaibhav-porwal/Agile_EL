@@ -2,7 +2,7 @@
 
 
 
-Cryptoscapes is a scrapping tool for the crytpocoins and displaying the different feilds along with graphs an dsentimental analysis to display the cryptocoins
+Cryptoscapes is a scrapping tool for the crytpocoins and displaying the different field along with graphs an dsentimental analysis to display the cryptocoins
 
 ## 🛠️  Key Technologies
 This project was deployed on AWS and built using:
